@@ -1,0 +1,21 @@
+
+.userForm__card {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .userForm__label {
+    font-weight: bold;
+    display: flex;
+  }
+  
+  .userForm__input {
+    border: solid 0.1rem;
+    border-color: rgba(128, 128, 128, 0.493);
+    display: flex;
+    margin-bottom: 1rem;
+    width: 100%;
+    padding: 0.2rem;
+  }
+
+  

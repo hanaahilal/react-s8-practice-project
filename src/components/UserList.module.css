@@ -1,0 +1,14 @@
+.userList__card{
+    display: flex;
+    flex-direction: column;
+
+}
+.listValues{
+    border: solid 0.1rem rgba(128, 128, 128, 0.521);
+    padding: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+ul {
+    padding-inline-start: 0em;
+    list-style: none;
+}

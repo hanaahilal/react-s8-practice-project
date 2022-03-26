@@ -1,0 +1,9 @@
+.button {
+        background-color: rgb(82, 24, 136);
+        color: white;
+        padding:0.35rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        display: flex;
+        margin-top: 1rem;
+      }
